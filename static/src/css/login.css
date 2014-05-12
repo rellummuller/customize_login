@@ -1,0 +1,8 @@
+@charset "utf-8";			
+.openerp .oe_login {
+	background-image: url(../img/bg.jpg);
+}
+.openerp .oe_login .oe_login_bottom {
+	background-color: transparent;
+	background-image: none;
+}
