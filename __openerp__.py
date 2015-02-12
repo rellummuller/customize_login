@@ -1,17 +1,17 @@
 {
-    'name': 'Customize login page',
+    'name': 'Customize Login Page',
     'version': '1.0',
-	'description': "This module will change the display of login page",
+	'description': "Este módulo customiza a tela de login do OpenERP",
     'category': 'web',
     'complexity': "easy",
     'description': """
-This module will change this login page.
+Este módulo irá alterar a página de login.
 =================
-Change login homepage, logo and some CSS properties.
+Alteração da homepage de login, logotipo e algumas propriedades CSS.
 
     """,
-    'author': 'ERPTalk.net',
-    'website': 'http://erptalk.net',
+    'author': 'OCCTO',
+    'website': 'http://www.occto.com.br',
     'installable': True,
     'active': False,
 	'depends': ['web'],
